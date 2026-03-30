@@ -30,14 +30,7 @@ The dashboard allows stakeholders to explore churn by demographics, contract typ
 ├── README.md            # Project documentation
 └── notes/               # Additional analysis or EDA notebooks
 
-
-
-📸 Dashboard Preview
-(Insert screenshots here once uploaded)
 
 💡 Conclusion
 This project demonstrates how Power BI can turn customer churn data into meaningful business insights.
 The dashboard helps decision‑makers identify at‑risk customers and design targeted retention strategies.
-
-🤝 Connect With Me
-If you’d like to discuss data analytics, Power BI, or churn modeling, feel free to reach out!
