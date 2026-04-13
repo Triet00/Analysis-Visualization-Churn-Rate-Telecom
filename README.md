@@ -24,13 +24,19 @@ The dashboard allows stakeholders to explore churn by demographics, contract typ
 - Customers who are not in a group plan are more likely to churn.
 
 📂 Repository Structure
-├── data/                # Raw or sample dataset (if allowed)
+
+├── data/                # Raw or sample dataset
+
 ├── pbix/                # Power BI report file
+
 ├── images/              # Dashboard screenshots
+
 ├── README.md            # Project documentation
+
 └── notes/               # Additional analysis or EDA notebooks
 
 
 💡 Conclusion
+
 This project demonstrates how Power BI can turn customer churn data into meaningful business insights.
 The dashboard helps decision‑makers identify at‑risk customers and design targeted retention strategies.
